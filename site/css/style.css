@@ -1,0 +1,25 @@
+/* Estilo personalizado da página */
+
+/* definida imagem de fundo da página */
+body {
+  background: url('../resource/img/background-site.png');
+}
+
+/* espaçamento azul antes do navbar do topo da página */
+.top-bar {
+  background-color: #6fa2f7;
+  font-size: 10px;
+  width: 100%;
+  height: 15px;
+}
+
+/*define imagem e tamanho do ícone do carrinho de compras na navbar*/
+.btn-icon {
+	background-image: url('../resource/img/cart.png');
+  width: 24px;
+  height: 24px;
+}
+
+footer {
+  background-color: #007bff;
+}
